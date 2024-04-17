@@ -1,6 +1,6 @@
 ﻿namespace LeedCode;
 
-public class Problem_56
+public class Problem_056
 {
     public int[][] Merge(int[][] intervals)
     {

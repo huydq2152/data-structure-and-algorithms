@@ -1,6 +1,6 @@
 ﻿namespace LeedCode;
 
-public class Problem_20
+public class Problem_020
 {
     public bool IsValid(string s)
     {

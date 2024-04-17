@@ -1,6 +1,6 @@
 ﻿namespace LeedCode;
 
-public class Problem_88
+public class Problem_088
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
     {
