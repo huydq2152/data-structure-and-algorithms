@@ -1,6 +1,6 @@
 ﻿namespace LeedCode;
 
-public class Problem_3
+public class Problem_003
 {
     public int LengthOfLongestSubstring(string s)
     {

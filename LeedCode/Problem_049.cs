@@ -1,6 +1,6 @@
 ﻿namespace LeedCode;
 
-public class Problem_49
+public class Problem_049
 {
     public IList<IList<string>> GroupAnagrams(string[] strs)
     {
