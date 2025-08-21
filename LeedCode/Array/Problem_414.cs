@@ -1,4 +1,4 @@
-namespace LeedCode.Array;
+namespace LeedCode;
 
 public class Problem_414
 {

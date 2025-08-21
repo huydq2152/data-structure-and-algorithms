@@ -5,7 +5,7 @@ public class Problem_056
     public int[][] Merge(int[][] intervals)
     {
         int intervalsLength = intervals.Length;
-        Array.Sort(intervals, (a, b) => a[0].CompareTo(b[0]));
+        System.Array.Sort(intervals, (a, b) => a[0].CompareTo(b[0]));
         List<int[]> result = new List<int[]>();
         int[] currentInterval = intervals[0];
         for (int i = 1; i < intervalsLength; i++)

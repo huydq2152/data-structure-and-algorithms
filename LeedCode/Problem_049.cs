@@ -9,7 +9,7 @@ public class Problem_049
         foreach (var str in strs)
         {
             char[] chars = str.ToArray();
-            Array.Sort(chars);
+            System.Array.Sort(chars);
             string sortedStr = new string(chars);
             if (!dictionary.ContainsKey(sortedStr))
             {

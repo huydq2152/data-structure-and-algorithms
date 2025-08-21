@@ -6,7 +6,7 @@ public class Problem_015
     {
         int numsLength = nums.Length;
         List<IList<int>> result = new List<IList<int>>();
-        Array.Sort(nums);
+        System.Array.Sort(nums);
         for (int i = 0; i < numsLength; i++)
         {
             if (i > 0 && nums[i] == nums[i - 1])

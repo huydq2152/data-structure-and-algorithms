@@ -19,6 +19,6 @@ public class Problem_001
             tempDict[temp] = i;
         }
 
-        return Array.Empty<int>();
+        return System.Array.Empty<int>();
     }
 }
